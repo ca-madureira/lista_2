@@ -3,7 +3,7 @@
 
 ### Lista de Tarefas 2
 
-1. Acesse a pasta lista_2:
+1. Acesse a pasta lista_2_codifica:
    ```
    cd lista_2_codifica
    ```
