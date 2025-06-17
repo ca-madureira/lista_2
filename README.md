@@ -5,7 +5,7 @@
 
 1. Acesse a pasta lista_2:
    ```
-   cd lista_2
+   cd lista_2_codifica
    ```
 
 2. Instale as dependências:
