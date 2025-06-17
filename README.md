@@ -1,7 +1,7 @@
 # Atividades de Lógica de Programação em JavaScript
 ## Formação Desenvolvedor Full Stack Júnior - Codifica +PraTI
 
-### Lista de Tarefas 2
+### Lista de Tarefas 2 - Aplicando conceitos intermediários em JS
 
 1. Acesse a pasta lista_2:
    ```
