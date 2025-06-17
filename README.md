@@ -3,9 +3,9 @@
 
 ### Lista de Tarefas 2
 
-1. Acesse a pasta lista_2_codifica:
+1. Acesse a pasta lista_2:
    ```
-   cd lista_2_codifica
+   cd lista_2
    ```
 
 2. Instale as dependências:
